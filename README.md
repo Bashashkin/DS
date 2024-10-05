@@ -1,6 +1,6 @@
 # DS
 
-[Лаб 1. Отчет](https://github.com/Bashashkin/DS/blob/main/Башашкин_лаб2_РС.pdf)
+[Лаб 2. Отчет](https://github.com/Bashashkin/DS/blob/main/Башашкин_лаб2_РС.pdf)
 
 [Лаб 4. Отчет](https://github.com/Bashashkin/DS/blob/main/Башашкин_лаб4.pdf)
 
